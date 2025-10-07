@@ -19,5 +19,12 @@
         "password": "CONFIG",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "828b6aa84e374305",
+        "username": "JITU",
+        "password": "BHAI89",
+        "expirydate": "15-11-2025",
+        "Allowoffline": false
     }
 ]
