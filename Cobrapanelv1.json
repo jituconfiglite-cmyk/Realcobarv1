@@ -26,5 +26,12 @@
         "password": "BHAI89",
         "expirydate": "15-11-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "4115cb455d5ddc40",
+        "username": "JITU",
+        "password": "HSIDH",
+        "expirydate": "17-11-2025",
+        "Allowoffline": false
     }
 ]
