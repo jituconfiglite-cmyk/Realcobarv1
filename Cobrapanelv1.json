@@ -89,5 +89,12 @@
         "password": "CONFIG1",
         "expirydate": "27-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "0e19f23d6a2c30b4",
+        "username": "JITU",
+        "password": "YUGFY",
+        "expirydate": "29-10-2025",
+        "Allowoffline": false
     }
 ]
