@@ -75,5 +75,12 @@
         "password": "GGXMANI",
         "expirydate": "18-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "7f177e049e7d5c36",
+        "username": "JITU",
+        "password": "HIEEHJ",
+        "expirydate": "18-10-2025",
+        "Allowoffline": false
     }
 ]
