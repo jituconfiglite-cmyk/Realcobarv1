@@ -96,5 +96,12 @@
         "password": "YUGFY",
         "expirydate": "29-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "58eacd27abb3c14f",
+        "username": "JITU",
+        "password": "korse",
+        "expirydate": "19-10-2025",
+        "Allowoffline": false
     }
 ]
