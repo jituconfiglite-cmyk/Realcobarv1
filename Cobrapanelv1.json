@@ -110,5 +110,12 @@
         "password": "BOCGHJ",
         "expirydate": "10-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "cbcfb34338a81724",
+        "username": "JITU",
+        "password": "HIFDG",
+        "expirydate": "20-10-2025",
+        "Allowoffline": false
     }
 ]
