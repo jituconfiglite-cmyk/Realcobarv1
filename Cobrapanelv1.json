@@ -103,5 +103,12 @@
         "password": "korse",
         "expirydate": "19-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "9061549759913f56",
+        "username": "JITU",
+        "password": "BOCGHJ",
+        "expirydate": "9-10-2025",
+        "Allowoffline": false
     }
 ]
