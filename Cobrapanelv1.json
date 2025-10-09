@@ -117,5 +117,12 @@
         "password": "HIFDG",
         "expirydate": "20-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "896593b60aeef020",
+        "username": "JITU",
+        "password": "FUTHI",
+        "expirydate": "21-10-2025",
+        "Allowoffline": false
     }
 ]
