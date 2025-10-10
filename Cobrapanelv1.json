@@ -124,5 +124,12 @@
         "password": "JODDI",
         "expirydate": "21-10-2025",
         "Allowoffline": false
+    },
+    {
+        "device_id": "683ab5ca9fc1cda0",
+        "username": "JITU",
+        "password": "GODD",
+        "expirydate": "21-10-2025",
+        "Allowoffline": false
     }
 ]
